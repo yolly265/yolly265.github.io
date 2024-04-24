@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
+title: "Share of people who say they are happy, 1993 to 2022"
 author: "Yollam Chilenje Manda"
 date: "2024-04-24"
-categories: [news]
+categories: [code, analysis]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+This was a project using Our World in data Integrated Values Surveys (2022). You can find the project reports [here](https://yolly265.github.io/owid_life_satisfaction/){target="_blank"}.
