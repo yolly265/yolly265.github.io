@@ -1,0 +1,18 @@
+---
+title: "Yollam Chilenje Manda"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/yollamchilenje
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yollam-chilenje-manda/
+    - icon: github
+      text: Github
+      href: https://github.com/yolly265
+---
+
+I'm an enthusiastic IT professional with a strong foundation in database management and data analysis. I thrive in dynamic environments where I can apply my expertise to solve complex problems and drive business growth. My experience includes implementing and managing database systems, as well as utilizing data visualization tools to communicate insights effectively. I'm passionate about continuous learning and am excited to contribute to innovative projects that make a meaningful impact

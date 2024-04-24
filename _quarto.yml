@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Yollam Chilenje Manda"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/yolly265
+      - icon: twitter
+        href: https://twitter.com/yollamchilenje
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

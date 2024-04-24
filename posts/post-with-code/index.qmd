@@ -1,0 +1,10 @@
+---
+title: "Burden of disease analysis"
+author: "Yollam Chilenje Manda"
+date: "2024-04-24"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+This was a project using Institute for Health Metrics and Evaluation (IHME) Global Burden of Disease (GBD) study. You can find the project [here](https://github.com/yolly265/rmc_week_02_workshop/blob/main/rmd/burden_of_disease_report.md/){target="_blank"}.
+
