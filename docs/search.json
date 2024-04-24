@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yollam Chilenje Manda",
+    "section": "",
+    "text": "I’m an enthusiastic IT professional with a strong foundation in database management and data analysis. I thrive in dynamic environments where I can apply my expertise to solve complex problems and drive business growth. My experience includes implementing and managing database systems, as well as utilizing data visualization tools to communicate insights effectively. I’m passionate about continuous learning and am excited to contribute to innovative projects that make a meaningful impact"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Burden of disease analysis",
+    "section": "",
+    "text": "This was a project using Institute for Health Metrics and Evaluation (IHME) Global Burden of Disease (GBD) study. You can find the project here."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Burden of disease analysis\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\nYollam Chilenje Manda\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2024\n\n\nYollam Chilenje Manda\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
